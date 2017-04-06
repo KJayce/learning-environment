@@ -21,18 +21,21 @@ Sur Github, fork le projet "[learning-environment](https://github.com/becodeorg/
 - insertion d’une image animée
 - que l’information transmise / l’histoire racontée soit intéressante, pertinent, correct et originale (dans le sens “personnel”, pas un copier-coller).
 
+### critères de perfectionnement
+
+ - listes à puce imbriquées (donc plusieurs niveaux hiérarchique)
+ - listes numérotées imbriquées
+ - publication de ce bout de code de manière formattée.
+
+
 ### deadline 
 lundi soir
 
-![BeCode](http://register.becode.org/partners/images/SmallLogo.png"BeCode")
 
-# Team Becode #
-## Apprendre à maîtriser le code #
-### Introduction ###
-#### Base ####
+
+
 
 Point important :
 * vivre en communauté
 * perseverence 
 * assiduité 
-
