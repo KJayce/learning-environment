@@ -8,6 +8,13 @@ Sur base du livret de l’apprenant et des post-it, construisez un site de prés
 
 ## Projet 1: le contenu
 
+###objectif
+
+ - apprendre le MarkDown et comprendre à quoi il sert
+ - préparer son cerveau à l'approche de structuration du contenu
+ - jeter les bases de l' html.
+
+### instructions
 Sur Github, fork le projet "[learning-environment](https://github.com/becodeorg/learning-environment)"
 - Publie-le sur un repo d'un membre de ton groupe.
 - Travaille ce contenu et rédige-le dans un document en MarkDown.
