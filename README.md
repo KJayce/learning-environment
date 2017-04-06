@@ -1,5 +1,5 @@
 yoooooooooooooooooooooooooo
-# Environnement optimisé pour l'apprentissage
+# _Environnement optimisé pour l'apprentissage_
 
 Meta-Projet courant durant la prairie autour de la question "Qu'est-ce qu'un environnement de travail optimisé?"
 
