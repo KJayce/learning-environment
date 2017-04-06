@@ -24,8 +24,7 @@ Sur Github, fork le projet "[learning-environment](https://github.com/becodeorg/
 ### deadline 
 lundi soir
 
-
-
+![BeCode](http://register.becode.org/partners/images/SmallLogo.png"BeCode")
 
 
 Point important :
