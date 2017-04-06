@@ -26,8 +26,13 @@ lundi soir
 
 ![BeCode](http://register.becode.org/partners/images/SmallLogo.png"BeCode")
 
+# Team Becode #
+## Apprendre à maîtriser le code #
+### Introduction ###
+#### Base ####
 
 Point important :
 * vivre en communauté
 * perseverence 
 * assiduité 
+
