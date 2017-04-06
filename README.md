@@ -1,3 +1,9 @@
+git remote -v
+origin    https://github.com/SafiaBihmedn/learning-environment.git (fetch)
+origin    https://github.com/SafiaBihmedn/learning-environment.git (push)
+upstream  https://github.com/becodeorg/learning-environment.git (fetch)
+upstream  https://github.com/becodeorg/learning-environment.git (push)
+
 yoooooooooooooooooooooooooo
 ça va ?
 # Environnement optimisé pour l'apprentissage
